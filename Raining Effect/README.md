@@ -1,4 +1,4 @@
 # Raining Effect
-Developed raining effect using javascript.
+Developed an animated raining effect using javascript.
 
-![Screenshot (67)](https://user-images.githubusercontent.com/86670343/134073718-2422e278-713e-4836-a28a-048ff9df45f5.png)
+![Animation-rain](https://user-images.githubusercontent.com/86670343/134134280-6f09daa1-2930-4e70-8750-d099b38a64ad.gif)
